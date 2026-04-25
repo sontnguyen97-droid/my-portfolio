@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Cover Photo */}
       <div style={{
         height: 280,
-        backgroundImage: "url('/cover.jpg')",
+        backgroundImage: "url('/cover1.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         position: "relative",
