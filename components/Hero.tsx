@@ -19,7 +19,7 @@ export default function Hero() {
             {/* Avatar */}
             <img
               src="/avatar.JPG"
-              alt="Hello!"
+              alt="Son Nguyen"
               style={{
                 width: 120, height: 120,
                 borderRadius: "50%",

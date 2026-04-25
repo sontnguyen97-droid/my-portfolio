@@ -2,7 +2,7 @@
 const EXPERIENCES = [
   {
     role: "Technical Specialist",
-    company: "Turtle Screen - SmartPhoneBeast",
+    company: "Turtle Screen - Boston, MA 02125",
     period: "Sep 2023 - Sep 2025",
     desc: [
             "Primarily repair broken phones, tablets and maintain strong repair quality, consistency.",
