@@ -20,8 +20,8 @@ const ACADEMIC = [
 
 const PERSONAL = [
   {
-    title: "Real Time Translate In Chat",
-    desc: "A chat application that automatically detects and translates incoming messages in real time - no button or press needed. Features AI-powered chat with bilingual support (Vietnamese <-> English), photo upload with OCR text extraction, and instant translation.",
+    title: "Real Time Translate",
+    desc: "Built a real time chat app that automatically transaltes incoming messages the moment they arrive, no button pressed. Unlike other messaging platforms where translation is always manual, this app detects language(currently: Vietnamese and English) and translates instantly. Features include AI powered chat, voice messages with live-speech-to-text transcription, and photo translation that overlays translated text directly onto images at the original text positions.",
     tags: ["Next.js", "TypeScript", "React", "Claude AI"],
     icon: "🌐",
     live: "https://real-time-translate-six.vercel.app/",
